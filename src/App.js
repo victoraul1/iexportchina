@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React hora mismo
+          Learn React hora mismo de una buena vez
         </a>
       </header>
     </div>
